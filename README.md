@@ -25,6 +25,4 @@ Business Analyst turning raw data into decisions — SQL for cleaning and analys
 
 
 ## 📫 Connect with me
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=aboutdotme&logoColor=white)](https://www.datascienceportfol.io/desalvatorealessio)
 https://www.linkedin.com/in/alessio-de-salvatore/
