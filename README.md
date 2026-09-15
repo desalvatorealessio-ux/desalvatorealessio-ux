@@ -11,7 +11,7 @@ Business Analyst turning raw data into decisions — SQL for cleaning and analys
 
 ## 🛠️ Tools
 
-**Languages & Query:** SQL (SQLite · PostgreSQL · T-SQL), Python (pandas)
+**Languages & Query:** SQL (SQLite · PostgreSQL · T-SQL), Python (pandas, numpy)
 **Databases:** SQLite, PostgreSQL, SQL Server
 **Visualization:** Power BI, DAX
 **Other:** Git, GitHub, Excel
@@ -20,6 +20,7 @@ Business Analyst turning raw data into decisions — SQL for cleaning and analys
 
 | Project | Description | Tools |
 |---|---|---|
+| [Global Economic Risk & Investment Dashboard](https://github.com/desalvatorealessio-ux/-Global-Economic-Risk-Investment-Dashboard) | Cross-country analysis of 10 economies (2005–2023) on real World Bank API data — Python pipeline, SQL analysis across 10 business questions, 4-page Power BI dashboard covering crisis recovery, investment attractiveness, and economic risk | Python, SQLite, Power BI, DAX |
 | [Retail Sales Analysis](https://github.com/desalvatorealessio-ux/Retails-Sales-Analysis) | End-to-end analysis of 1,000 retail transactions — SQL data cleaning, descriptive analysis across 7 business questions, Power BI dashboard | SQLite, Power BI, DAX |
 
 
