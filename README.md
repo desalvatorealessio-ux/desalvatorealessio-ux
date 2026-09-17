@@ -1,4 +1,4 @@
-# Hi, I'm Alessio 👋
+# Hi, I'm Alessio!
 
 Business Analyst turning raw data into decisions — SQL for cleaning and analysis, Power BI for dashboards, Python when I need it.
 
