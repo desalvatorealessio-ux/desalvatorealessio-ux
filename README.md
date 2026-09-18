@@ -1,6 +1,6 @@
 # Hi, I'm Alessio!
 
-Business Analyst turning raw data into decisions — SQL for cleaning and analysis, Power BI for dashboards, Python when I need it.
+Business Analyst turning raw data into decisions — SQL for cleaning and analysis, Power BI for dashboards, Python when I need it, all supported by AI tools such as Claude in order to ensure efficiency.
 
 ## 🔍 What I do
 
